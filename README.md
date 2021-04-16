@@ -1,6 +1,6 @@
 # Nuxt-module for progress bar on generate logs
 
-![demo](demo.gif)
+![demo](demo.gif =320x)
 
 ## Install
 
