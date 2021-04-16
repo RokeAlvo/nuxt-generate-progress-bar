@@ -1,5 +1,7 @@
 # Nuxt-module for progress bar on generate logs
 
+![demo](demo.gif)
+
 ## Install
 
 ```nmp install -D nuxt-generate-progress-bar```
