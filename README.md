@@ -11,3 +11,9 @@ module.exports = {
     ],
 }
 ```
+```bash
+# package.json
+  "scripts": {
+    "generate": "CONSOLA_LEVEL=1 nuxt generate"
+  },
+```
