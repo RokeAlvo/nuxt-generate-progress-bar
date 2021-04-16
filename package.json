@@ -1,6 +1,6 @@
 {
   "name": "nuxt-generate-progress-bar",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "progress bar for nuxt-generate",
   "main": "index.js",
   "homepage": "https://github.com/RokeAlvo/nuxt-generate-progress-bar#readme",
