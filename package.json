@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-genrate-progress-bar",
+  "name": "nuxt-generate-progress-bar",
   "version": "1.0.0",
   "description": "progress bar for nuxt-generate",
   "main": "index.js",
