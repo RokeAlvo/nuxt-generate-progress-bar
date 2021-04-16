@@ -1,0 +1,14 @@
+{
+  "name": "nuxt-genrate-progress-bar",
+  "version": "1.0.0",
+  "description": "progress bar for nuxt-generate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no test specified\""
+  },
+  "author": "rokealvo",
+  "license": "ISC",
+  "dependencies": {
+    "cli-progress": "^3.9.0"
+  }
+}
