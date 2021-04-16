@@ -1,4 +1,4 @@
-# Nuxt-module for progress bar on generate logs
+# Nuxt module for the generation progress bar
 
 ![demo](demo.gif)
 
