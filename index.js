@@ -1,8 +1,9 @@
 const cliProgress = require('cli-progress')
 
 export default function (moduleOptions = {}) {
+	let bar
 	this.nuxt.hook('generate:extendRoutes', (routes) => {
-		const bar = new cliProgress.Bar(
+		bar = new cliProgress.Bar(
 			{
 				format:
 					'progress [{bar}] {percentage}% | ETA: {eta}s | {value}/{total} | generated: {route}',
