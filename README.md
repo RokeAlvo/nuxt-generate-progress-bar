@@ -4,7 +4,7 @@
 
 ## Install
 
-```nmp install -D nuxt-generate-progress-bar```
+```npm install -D nuxt-generate-progress-bar```
 ```javascript
 // nuxt.config.js
 module.exports = {
